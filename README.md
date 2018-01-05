@@ -14,8 +14,8 @@ Install the pip follow the following steps to install pip
 Open your bash profile
 
 >>$ nano ~/.bash_profile
-open uou bash profile and update it: 
-  # Homebrew
+open bash profile and update it: 
+  #Homebrew
   export PATH=/usr/local/bin:$PATH
   
 open bash profile for an assurance that whether updation being done or not.  
