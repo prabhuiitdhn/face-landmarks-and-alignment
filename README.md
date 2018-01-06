@@ -77,5 +77,6 @@ http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
 
   
+Facial alignment
 
-
+The purpose of this is how to align the face using opencv, python and facial landmarks. Given a set of facial landmarks and goal to warp and transform the image to an output co-ordinate space. 
